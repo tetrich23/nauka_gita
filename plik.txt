@@ -1,1 +1,2 @@
 to moja pierwsza praca z gitem
+Ucze sie Git i GitHub
